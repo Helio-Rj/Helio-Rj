@@ -4,6 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em supor
 atualmente em transição estruturada para desenvolvimento de software.
 
 ### 🎯 Foco atual
+- C++
 - Python
 - Lógica de programação
 - Programação orientada a objetos
