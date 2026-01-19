@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Hélio 👋
 
-<!--
-**Helio-Rj/Helio-Rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e infraestrutura,
+atualmente em transição estruturada para desenvolvimento de software.
 
-Here are some ideas to get you started:
+### 🎯 Foco atual
+- Python
+- Lógica de programação
+- Programação orientada a objetos
+- Desenvolvimento back-end básico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Sobre este GitHub
+Aqui você encontrará projetos práticos, aplicações simples e estudos organizados,
+com foco em aprendizado contínuo e evolução técnica.
+
+🔗 LinkedIn: linkedin.com/in/ultimatehelio
