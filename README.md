@@ -8,7 +8,7 @@ atualmente em transição estruturada para desenvolvimento de software.
 - Python
 - Lógica de programação
 - Programação orientada a objetos
-- Desenvolvimento back-end básico
+- Desenvolvimento Fullstack
 
 ### 📂 Sobre este GitHub
 Aqui você encontrará projetos práticos, aplicações simples e estudos organizados,
