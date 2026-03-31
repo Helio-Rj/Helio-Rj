@@ -1,25 +1,31 @@
-## Olá, eu sou o Hélio 👋
 <h1 align="center">👋 Olá, eu sou Hélio</h1>
 
 <p align="center">
-💻 Desenvolvedor | 📊 Data Analytics | 🤖 IA
+💻 Analista de TI | 🚀 Em transição para Desenvolvimento de Software
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📊 Focado em Data Analytics e Inteligência Artificial  
-💡 Apaixonado por transformar dados em decisões  
+💼 Experiência em suporte técnico, redes e infraestrutura  
+🎓 Formação em Análise e Desenvolvimento de Sistemas  
+🎓 Pós-graduação em Desenvolvimento Full Stack  
+📊 Focado em evoluir para Desenvolvimento de Software  
 📍 Brasil  
 
 ---
 
-## 🧠 Tecnologias que uso
+## 🚀 Objetivo
+
+Atuar como **Desenvolvedor Júnior**, aplicando meus conhecimentos em lógica de programação, orientação a objetos e desenvolvimento de software, enquanto continuo evoluindo tecnicamente.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,c++" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,linux,vscode" />
 </p>
 
 ---
@@ -33,33 +39,33 @@
 
 ---
 
-## 🔥 Streak
+## 🔥 Em evolução
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Helio-Rj&theme=tokyonight&hide_border=true" />
-</p>
+🌱 Atualmente estudando:
+- Lógica de Programação
+- Programação Orientada a Objetos
+- Python e Java
+- Estrutura de Dados
+
+---
+
+## 💼 Experiência
+
+🖥️ **Suporte Técnico em TI**  
+- Diagnóstico e resolução de problemas  
+- Instalação e configuração de sistemas  
+- Suporte a usuários  
+- Redes e manutenção de computadores  
 
 ---
 
 ## 🌐 Contato
 
 <p align="center">
-<a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="SEU_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/ultimatehelio">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hedonasi.1979@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
-
-Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e infraestrutura,
-atualmente em transição estruturada para desenvolvimento de software.
-
-### 🎯 Foco atual
-- C++
-- Python
-- Lógica de programação
-- Programação orientada a objetos
-- Desenvolvimento Fullstack
-
-### 📂 Sobre este GitHub
-Aqui você encontrará projetos práticos, aplicações simples e estudos organizados,
-com foco em aprendizado contínuo e evolução técnica.
-
-🔗 LinkedIn: linkedin.com/in/ultimatehelio
