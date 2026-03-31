@@ -1,61 +1,63 @@
-<h1 align="center">👋 Olá, eu sou Hélio</h1>
+<h1 align="center">💻 Hélio | Software Developer</h1>
 
 <p align="center">
-💻 Analista de TI | 🚀 Em transição para Desenvolvimento de Software
+🚀 Focado em Desenvolvimento de Software | Python • Java • C++
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-💼 Experiência em suporte técnico, redes e infraestrutura  
-🎓 Formação em Análise e Desenvolvimento de Sistemas  
-🎓 Pós-graduação em Desenvolvimento Full Stack  
-📊 Focado em evoluir para Desenvolvimento de Software  
-📍 Brasil  
+Sou desenvolvedor em evolução com base sólida em lógica de programação e orientação a objetos.
 
----
+Tenho experiência prévia em tecnologia atuando com sistemas, o que me permite entender problemas reais e construir soluções eficientes.
 
-## 🚀 Objetivo
-
-Atuar como **Desenvolvedor Júnior**, aplicando meus conhecimentos em lógica de programação, orientação a objetos e desenvolvimento de software, enquanto continuo evoluindo tecnicamente.
+Atualmente focado em desenvolvimento backend e fundamentos de software.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🧠 Stack principal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,vscode" />
 </p>
+
+---
+
+## 📂 Projetos em destaque
+
+🚧 Em construção — novos projetos sendo adicionados com foco em:
+
+- Sistemas em Python
+- Aplicações orientadas a objetos
+- Estruturas de dados
+- Lógica aplicada a problemas reais
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=Helio-Rj&show_icons=true&theme=tokyonight&cache_seconds=86400
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helio-Rj&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Helio-Rj&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helio-Rj&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 🔥 Em evolução
+## 🔥 Em desenvolvimento
 
-🌱 Atualmente estudando:
-- Lógica de Programação
-- Programação Orientada a Objetos
-- Python e Java
+Atualmente aprofundando conhecimentos em:
+
 - Estrutura de Dados
+- Programação Orientada a Objetos
+- Python aplicado a projetos reais
+- Versionamento com Git
 
 ---
 
-## 💼 Experiência
+## ⚡ Filosofia
 
-🖥️ **Suporte Técnico em TI**  
-- Diagnóstico e resolução de problemas  
-- Instalação e configuração de sistemas  
-- Suporte a usuários  
-- Redes e manutenção de computadores  
+"Código limpo, lógica clara e evolução constante."
 
 ---
 
