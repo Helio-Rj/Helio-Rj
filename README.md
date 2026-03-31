@@ -1,60 +1,56 @@
-<h1 align="center">💻 Hélio | Software Developer</h1>
+<h1 align="center">Hélio do Nascimento Silva</h1>
 
 <p align="center">
-🚀 Focado em Desenvolvimento de Software | Python • Java • C++
+Desenvolvedor de Software • Python | Java | C++
+</p>
+
+<p align="center">
+Pós-graduado em Desenvolvimento Full Stack • Experiência prática em TI
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Desenvolvimento
 
-Sou desenvolvedor em evolução com base sólida em lógica de programação e orientação a objetos.
+Atuo com foco em desenvolvimento de software, aplicando lógica de programação, orientação a objetos e construção de aplicações.
 
-Tenho experiência prévia em tecnologia atuando com sistemas, o que me permite entender problemas reais e construir soluções eficientes.
-
-Atualmente focado em desenvolvimento backend e fundamentos de software.
+Minha experiência anterior em infraestrutura e suporte me permite entender sistemas além do código, trazendo uma visão mais completa para o desenvolvimento.
 
 ---
 
-## 🧠 Stack principal
+## 🛠️ Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos
 
-🚧 Em construção — novos projetos sendo adicionados com foco em:
+🔧 Atualmente desenvolvendo projetos práticos focados em:
 
-- Sistemas em Python
-- Aplicações orientadas a objetos
-- Estruturas de dados
-- Lógica aplicada a problemas reais
+- Aplicações em Python  
+- Estrutura de dados e algoritmos  
+- Programação orientada a objetos  
+- Lógica aplicada a problemas reais  
+
+
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Helio-Rj&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helio-Rj&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Helio-Rj&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## 🔥 Em desenvolvimento
+## 📫 Contato
 
-Atualmente aprofundando conhecimentos em:
-
-- Estrutura de Dados
-- Programação Orientada a Objetos
-- Python aplicado a projetos reais
-- Versionamento com Git
-
----
-
-## ⚡ Filosofia
-
-"Código limpo, lógica clara e evolução constante."
+<p align="center">
+<a href="https://linkedin.com/in/ultimatehelio">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
