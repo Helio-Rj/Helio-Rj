@@ -33,7 +33,7 @@ Atuar como **Desenvolvedor Júnior**, aplicando meus conhecimentos em lógica de
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Helio-Rj&show_icons=true&theme=tokyonight" />
+https://github-readme-stats.vercel.app/api?username=Helio-Rj&show_icons=true&theme=tokyonight&cache_seconds=86400
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helio-Rj&layout=compact&theme=tokyonight"/>
 </p>
 
