@@ -58,16 +58,3 @@ Atualmente aprofundando conhecimentos em:
 ## ⚡ Filosofia
 
 "Código limpo, lógica clara e evolução constante."
-
----
-
-## 🌐 Contato
-
-<p align="center">
-<a href="https://linkedin.com/in/ultimatehelio">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hedonasi.1979@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
